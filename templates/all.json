@@ -168,7 +168,7 @@
     },
     {
       "product": "CDH",
-      "version": "7.0.3-1.cdh7.0.3.p0.1635019"
+      "version": "CDH-7.1.1-1.cdh7.1.1.p0.3266817"
     },
     {
       "product": "Anaconda",
@@ -180,7 +180,7 @@
     }
   ],
   "repositories": [
-    "https://archive.cloudera.com/cdh7/7.0/parcels/",
+    "https://archive.cloudera.com/cdh7/7.1.1.0/parcels/",
     "https://archive.cloudera.com/CFM/parcels/1.0.1.0/",
     "https://archive.cloudera.com/cdsw1/1.6.1/parcels/",
     "https://repo.continuum.io/pkgs/misc/parcels/archive/"
